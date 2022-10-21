@@ -1,0 +1,1 @@
+# py-deteksi-gempa-app
